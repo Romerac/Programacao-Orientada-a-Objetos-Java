@@ -1,8 +1,8 @@
-# Atividade Prática
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
 
 # Exercício – Classe Retângulo em Java
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ## Descrição
 
 Este exercício consiste na implementação de uma classe `Retangulo` em **Java**, aplicando conceitos fundamentais de **Programação Orientada a Objetos (POO)**, como encapsulamento, criação de métodos, getters, setters e construtor.

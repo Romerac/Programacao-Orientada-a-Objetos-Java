@@ -61,7 +61,8 @@ prjRetangulo/
 │
 ├── Retangulo.java
 └── Aplic.java
-
 ## Autores
 
 - [@romerac](https://www.github.com/romerac)
+
+

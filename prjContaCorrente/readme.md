@@ -55,5 +55,13 @@ Digite a opção:
 - Nas operações de **depósito, saque e consulta**, deve ser exibido o **número da conta**.
 - Na operação de **saque**, caso seja informado um valor **superior ao saldo da conta**, exibir a mensagem: **"Saldo Insuficiente!"**
 
+## Estrutura do Projeto:
 
+prjRetangulo/
+│
+├── Retangulo.java
+└── Aplic.java
 
+## Autores
+
+- [@romerac](https://www.github.com/romerac)

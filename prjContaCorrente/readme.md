@@ -53,8 +53,7 @@ Digite a opção:
 - Defina o projeto com o nome **prjContaCorrente**.
 - Utilize a classe **Scanner** para realizar as entradas de dados.
 - Nas operações de **depósito, saque e consulta**, deve ser exibido o **número da conta**.
-- Na operação de **saque**, caso seja informado um valor **superior ao saldo da conta**, exibir a mensagem:
+- Na operação de **saque**, caso seja informado um valor **superior ao saldo da conta**, exibir a mensagem: **"Saldo Insuficiente!"**
 
-```
-Saldo Insuficiente
-```
+
+

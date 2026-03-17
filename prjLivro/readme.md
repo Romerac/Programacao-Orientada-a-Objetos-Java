@@ -53,7 +53,7 @@ Digite a opção:
 ## Estrutura do Projeto
 
 ```
-prjRetangulo/
+prjLivro/
 │
 ├── Livro.java
 └── Aplic.java

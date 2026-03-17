@@ -45,7 +45,7 @@ O objetivo do exercício é praticar a **estruturação de classes, encapsulamen
 ## Estrutura do Projeto
 
 ```
-prjRetangulo/
+prjExemploRetangulo/
 │
 ├── Retangulo.java
 └── Aplic.java

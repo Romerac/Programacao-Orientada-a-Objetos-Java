@@ -50,7 +50,17 @@ Digite a opção:
 * Na operação de **Emprestar livro** exibir a mensagem **“Operação de empréstimo realizada com sucesso”**.
 * Na operação **Devolver livro** exibir a mensagem **“Operação de devolução realizada com sucesso”**. Caso ocorra, o valor da multa a ser pago pela entrega em atraso do livro deve ser exibido.
 
+## Estrutura do Projeto
+
+```
+prjRetangulo/
+│
+├── Livro.java
+└── Aplic.java
+```
 ## Autores
 
 - [@romerac](https://www.github.com/romerac)
+
+
 

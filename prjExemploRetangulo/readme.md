@@ -41,3 +41,16 @@ Ao final do exercício, a classe `Retangulo` passa a possuir:
 - Um **método construtor** para inicialização do objeto
 
 O objetivo do exercício é praticar a **estruturação de classes, encapsulamento de atributos e implementação de métodos em Java, incluindo o método construtor**, reforçando conceitos essenciais da **Programação Orientada a Objetos**.
+
+## Estrutura do Projeto
+
+```
+prjRetangulo/
+│
+├── Retangulo.java
+└── Aplic.java
+```
+## Autores
+
+- [@romerac](https://www.github.com/romerac)
+

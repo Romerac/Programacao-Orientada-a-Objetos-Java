@@ -60,7 +60,7 @@ Digite a opção:
 ```
 prjRetangulo/
 │
-├── Retangulo.java
+├── ContaCorrente.java
 └── Aplic.java
 ```
 ## Autores

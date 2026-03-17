@@ -2,7 +2,7 @@
 ![Logo](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/212/2024/09/logo_fatec_sorocaba.png)
 
 # Programação Orientada a Objetos utilizando a linguagem Java
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 Este repositório contém os exercícios, atividades e projetos desenvolvidos na disciplina de **Programação Orientada a Objetos (POO)** utilizando a linguagem **Java**, cursada no 4º semestre da **FATEC Sorocaba**.
 

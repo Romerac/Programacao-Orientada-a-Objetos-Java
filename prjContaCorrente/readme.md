@@ -58,7 +58,7 @@ Digite a opção:
 ## Estrutura do Projeto
 
 ```
-prjRetangulo/
+prjContaCorrente/
 │
 ├── ContaCorrente.java
 └── Aplic.java

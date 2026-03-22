@@ -14,3 +14,15 @@ O exercício também aborda a utilização de construtores com parâmetros, gara
 Além disso, a atividade envolve a criação de uma aplicação responsável por instanciar objetos de cada uma das subclasses, possibilitando a interação com esses objetos e a verificação prática do comportamento herdado e especializado.
 
 Dessa forma, o exercício contribui para a compreensão dos conceitos de generalização, especialização e reutilização de código, fundamentais para o desenvolvimento de sistemas orientados a objetos mais organizados e escaláveis.
+
+```
+prjExemploGenerEspecSemPolimorfismo/
+│
+├── Aplic.java
+└── fatec/
+    └── poo/
+        └── model/
+            ├── Aluno.java
+            ├── Pessoa.java
+            └── Professor.java
+```

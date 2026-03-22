@@ -13,13 +13,12 @@ A aplicação também envolve a interação com o usuário por meio de um menu n
 Dessa forma, o exercício contribui para a compreensão prática de conceitos fundamentais da POO, como encapsulamento, controle de estado do objeto e implementação de métodos, promovendo a organização e reutilização de código.
 ## Autores
 
-prjLivro/
-
+```
+prjExemploGenerEspecSemPolimorfismo/
 │
-
-├── Livro.java
-
-└── Aplic.java
+├── Aplic.java
+└── Livro
+```
 
 - [@romerac](https://www.github.com/romerac)
 

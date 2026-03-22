@@ -26,3 +26,8 @@ prjExemploGenerEspecSemPolimorfismo/
             ├── Pessoa.java
             └── Professor.java
 ```
+
+## Autores
+
+- [@romerac](https://www.github.com/romerac)
+

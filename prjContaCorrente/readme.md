@@ -10,6 +10,8 @@ Assim, o método `getAltura()` retorna o valor do atributo `altura`, enquanto `g
 
 Seguindo o princípio de **encapsulamento**, no qual os atributos da classe são acessados por meio de métodos definidos na própria classe.
 
+## Estrutura do Projeto
+
 
 ```
 prjContaCorrente/

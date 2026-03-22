@@ -15,7 +15,7 @@ Além disso, a atividade envolve a criação de uma aplicação responsável por
 Dessa forma, o exercício contribui para a compreensão dos conceitos de generalização, especialização e reutilização de código, fundamentais para o desenvolvimento de sistemas orientados a objetos mais organizados e escaláveis.
 
 ```
-prjExemploGenerEspecSemPolimorfismo/
+prjCirculo/
 │
 ├── Aplic.java
 └── Circulo.java

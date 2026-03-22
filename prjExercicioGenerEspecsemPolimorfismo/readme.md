@@ -24,9 +24,9 @@ prjExemploGenerEspecSemPolimorfismo/
 └── fatec/
     └── poo/
         └── model/
-            ├── Aluno.java
             ├── Pessoa.java
-            └── Professor.java
+            ├── Instrutor.java
+            └── Cliente.java
 ```
 
 ## Autores

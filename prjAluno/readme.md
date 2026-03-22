@@ -14,6 +14,8 @@ A ideia aqui não é apenas criar uma classe simples, mas aplicar regras matemá
 * **Um Menu que não Fecha:** Criação de um menu de opções utilizando a classe `Scanner`. O programa roda em um ciclo (usando comandos como `while` e `switch-case`) onde o usuário pode navegar entre as opções de visualização de notas até escolher a opção de "Sair". O RA do aluno é sempre exibido para lembrar qual registro estamos consultando.
 
 
+## Estrutura do Projeto
+
 ```
 prjCirculo/
 │

@@ -15,12 +15,6 @@ Dessa forma, o exercício contribui para a compreensão prática de conceitos fu
 ## Estrutura do Projeto
 
 ```
-prjExemploRetangulo/
-│
-├── Retangulo.java
-└── Aplic.java
-```
-```
 prjExemploGenerEspecSemPolimorfismo/
 │
 ├── Aplic.java

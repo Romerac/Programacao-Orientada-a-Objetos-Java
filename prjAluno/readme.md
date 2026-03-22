@@ -13,6 +13,7 @@ A ideia aqui não é apenas criar uma classe simples, mas aplicar regras matemá
 * **A Classe faz o Trabalho Pesado:** A classe não serve só para guardar as notas. Os métodos de calcular as médias (`calcMediaProva`, `calcMediaTrab` e `calcMediaFinal`) mostram como o objeto pega os valores, aplica os cálculos com os pesos corretos e devolve o resultado pronto.
 * **Um Menu que não Fecha:** Criação de um menu de opções utilizando a classe `Scanner`. O programa roda em um ciclo (usando comandos como `while` e `switch-case`) onde o usuário pode navegar entre as opções de visualização de notas até escolher a opção de "Sair". O RA do aluno é sempre exibido para lembrar qual registro estamos consultando.
 
+
 ```
 prjCirculo/
 │

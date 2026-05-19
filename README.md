@@ -26,6 +26,7 @@ O objetivo da disciplina é aplicar os principais conceitos do paradigma orienta
 - Abstração
 - Relacionamento entre classes
 - Organização e reutilização de código
+- Criação de GUIs
 
 
 ## Autores

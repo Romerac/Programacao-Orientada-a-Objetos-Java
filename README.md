@@ -24,6 +24,7 @@ O objetivo da disciplina é aplicar os principais conceitos do paradigma orienta
 - Herança
 - Polimorfismo
 - Abstração
+- Associação Binária
 - Relacionamento entre classes
 - Criação de GUIs
 - Organização e reutilização de código

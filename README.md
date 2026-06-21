@@ -28,6 +28,7 @@ O objetivo da disciplina é aplicar os principais conceitos do paradigma orienta
 - Relacionamento entre classes
 - Criação de GUIs
 - Organização e reutilização de código
+- Integração com bancos Oracle SQL
 
 
 ## Autores

@@ -12,6 +12,8 @@ Durante a disciplina, são desenvolvidos programas e estudos práticos com foco 
 
 Este repositório serve como registro acadêmico das atividades realizadas ao longo do semestre e como material de estudo e consulta futura de conceitos de POO em Java.
 
+
+
 ## Objetivos:
 
 O objetivo da disciplina é aplicar os principais conceitos do paradigma orientado a objetos, como:
@@ -27,11 +29,15 @@ O objetivo da disciplina é aplicar os principais conceitos do paradigma orienta
 - Organização e reutilização de código
 - Integração com bancos Oracle SQL
 
+
+
 ## 📁 Estrutura do Repositório
 - `\Atividades`: Exercícios menores focados na fixação de conceitos (encapsulamento, polimorfismo, etc).
 - `\Exemplos`: Aplicações feitas em aula em conjunto com o Professor Dimas para fixar matéria e aprender conceitos básicos.
 - `\Exercícios`: Exercícios feitos em casa com objetivo de fixar conceitos aprendidos em sala de aula.
 - `\Projetos`: Aplicações completas, incluindo GUIs e integração com banco de dados.
+
+
 
 ## 🛠️ Pré-requisitos
 
@@ -40,6 +46,9 @@ Para compilar e executar os projetos deste repositório, você precisará ter in
 - **Java Development Kit (JDK)**: Versão 8 ou superior. 
 - **IDE de sua preferência**: NetBeans, IntelliJ IDEA, ou Eclipse. (Feito no NetBeans 8.2)
 - **Banco de Dados**: Oracle Database (necessário para os projetos de integração).
+
+
+
 
 ## 🚀 Como Executar
 1. Clone este repositório em sua máquina local:
@@ -54,6 +63,9 @@ Para compilar e executar os projetos deste repositório, você precisará ter in
 4. Para projetos que utilizam banco de dados, execute os scripts .sql disponíveis nas respectivas pastas para criar as tabelas no Oracle e atualize as credenciais (usuário e senha) no código Java.
 
 5. Execute a classe Main.java, ou no caso das GUIs, apenas execute as aplicações da atividade desejada.
+
+
+
 
 ## Autores
 

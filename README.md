@@ -4,7 +4,7 @@
 # Programação Orientada a Objetos utilizando a linguagem Java
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
 </p>
 Este repositório contém os exercícios, atividades e projetos desenvolvidos na disciplina de **Programação Orientada a Objetos (POO)** utilizando a linguagem **Java**, cursada no 4º semestre da **FATEC Sorocaba**.
 

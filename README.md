@@ -33,5 +33,5 @@ O objetivo da disciplina é aplicar os principais conceitos do paradigma orienta
 
 ## Autores
 
-- [@romerac](https://www.github.com/romerac)
-
+- Github: [@romerac](https://www.github.com/romerac)
+- Linkedin: [@romerac](https://www.linkedin.com/in/viniciusromerac/)

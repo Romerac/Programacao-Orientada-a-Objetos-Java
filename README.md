@@ -13,7 +13,6 @@ Durante a disciplina, são desenvolvidos programas e estudos práticos com foco 
 Este repositório serve como registro acadêmico das atividades realizadas ao longo do semestre e como material de estudo e consulta futura de conceitos de POO em Java.
 
 
-
 ## Objetivos:
 
 O objetivo da disciplina é aplicar os principais conceitos do paradigma orientado a objetos, como:

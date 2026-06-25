@@ -68,8 +68,7 @@ Para compilar e executar os projetos deste repositório, você precisará ter in
 
 ## ✒️ Autores
 
-**Vinicius Romera**
-<br>
+##**Vinicius Romera**
 <br>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romerac)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusromerac/)

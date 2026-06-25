@@ -66,7 +66,7 @@ Para compilar e executar os projetos deste repositório, você precisará ter in
 
 
 
-## Autores
+## ✒️ Autores
 
 - Github: [@romerac](https://www.github.com/romerac)
 - Linkedin: [@viniciusromerac](https://www.linkedin.com/in/viniciusromerac/)
